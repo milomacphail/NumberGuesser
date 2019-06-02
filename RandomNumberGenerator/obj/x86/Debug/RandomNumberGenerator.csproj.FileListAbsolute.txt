@@ -1,0 +1,6 @@
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/RandomNumberGenerator.exe
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/RandomNumberGenerator.pdb
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/obj/x86/Debug/RandomNumberGenerator.csprojAssemblyReference.cache
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/obj/x86/Debug/RandomNumberGenerator.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/obj/x86/Debug/RandomNumberGenerator.exe
+/Users/milo/Projects/RandomNumberGenerator/RandomNumberGenerator/obj/x86/Debug/RandomNumberGenerator.pdb
